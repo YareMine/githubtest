@@ -9,6 +9,7 @@ public class TestGitHub {
     public static void main(String[] args) {
         System.out.println("hello, GitHub!");
         System.out.println("修改后未add");
+        System.out.println("在dev里做了修改");
     }
 
 }
